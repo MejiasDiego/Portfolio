@@ -1,7 +1,5 @@
 ---
 import { basics } from "cv-es.json"
-import 'hotkeypad/reset.css'
-import 'hotkeypad/index.css'
 interface Props {
   title: string
 }
@@ -10,8 +8,6 @@ const { title } = Astro.props
 
 const { image, summary, url } = basics
 ---
-<script type="HotKeyPad" src="hotkeypad/reset.css" is:inline></script>
-
 <!doctype html>
 <html lang="es">
   <head>
