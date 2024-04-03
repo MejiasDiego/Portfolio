@@ -1,0 +1,162 @@
+{
+  "basics": {
+    "name": "Diego Mejías",
+    "label": "Full Stack Developer formado para trabajar en las mejores empresas & Licenciado en Imagen y Sonido",
+    "image": "/yo.webp",
+    "email": "mejias.diego19@gmail.com",
+    "phone": "+34 644481792",
+    "url": "https://www.linkedin.com/in/diegomejiaspeña/",
+    "summary": "Experiencia trabajando en equipos competitivos como Desarrollador Web. Recibo formaciones de las últimas tecnologias para formar parte de la vanguardia del sector. He ganado experiencia en diferentes entornos: desde acelarar el desarrollo de proyectos hasta formar parte de Full Stack hackathons.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Tarragona",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Diego Mejías Peña",
+        "url": "https://www.linkedin.com/in/diegomejiaspeña/"
+      },
+      {
+        "network": "GitHub",
+        "username": "diegomejias",
+        "url": "https://github.com/MejiasDiego"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "TECHMA BUSINESS SCHOOL",
+      "url": "https://techmabs.com/",
+      "area": "Bootcamp Full-Stack Java Web Developer",
+      "summary": "Java, Astro, Spring Boot, MySQL, HTML, CSS, JavaScript, Angular, Git, GitHub",
+      "studyType": "Bootcamp",
+      "startDate": "2024-01-29",
+      "endDate": "2024"
+    },
+    {
+      "institution": "UNIVERSITAT ROVIRA I VIRGILI",
+      "url": "https://www.urv.cat/es/",
+      "area": "Degree in Video and Sound Design",
+      "summary": "Producción audiovisual y multimedia,ficción, entretenimiento, periodismo y documentales. Ideación, guionización, producción, realización, comercialización y difusión de productos y programas audiovisuales.",
+      "studyType": "Degree",
+      "startDate": "2019-09-21",
+      "endDate": "2023-07-29"
+    },
+    {
+      "institution": "CAMBRIDGE UNIVERSITY",
+      "url": "https://www.cambridgeenglish.org/exams-and-tests/advanced/",
+      "area": "English Cambridge C1 Advanced",
+      "summary": "ID B2752553",
+      "startDate": "2017",
+      "endDate": null
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Cambridge C1 Advanced",
+      "date": "August 2018",
+      "issuer": "Cambridge University",
+      "url": "ID B2752553 09/08/2001"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JAVA",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "POO"]
+    },
+    {
+      "name": "HTML",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Codigo Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Astro Framework",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Frontend", "Local Host Developing"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Catalán",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Profesional"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Minimalist CV",
+      "isActive": true,
+      "description": "Minimalist Portfolio made with Astro 4 based in Jarocki's work. It's a fast loading time website with a responsive design.",
+      "highlights": ["Astro 4", "Responsive", "Fast Loading Time"],
+      "url": ""
+    },
+    {
+      "name": "Java Purchase Management System",
+      "isActive": true,
+      "description": "Java-based Purchase Management System developed using HashMap to handle both the database and shopping cart.",
+      "highlights": ["Objects", "Eclipse", "HashMap", "Java"],
+      "url": "https://github.com/MejiasDiego/Java-Purchase-Management-System-"
+    },
+    {
+      "name": "L'Elecció Difícil",
+      "isActive": false,
+      "description": "Documental social sobre como la pandémia afectó a las personas que quedaron desahuciadas.",
+      "highlights": ["Guión", "Realización", "Postproducción", "Edición"],
+      "url": "https://youtu.be/VUibX7aaozw"
+    },
+    {
+      "name": "La Banqueta",
+      "isActive": false,
+      "description": "Programa deportivo que repasa la actualidad del mundo futbolístico con un toque de humor",
+      "highlights": ["Guión", "Realización", "Postproducción", "Edición"],
+      "url": "https://youtu.be/oaOi_uZ4R3k"
+    }
+  ]
+}
