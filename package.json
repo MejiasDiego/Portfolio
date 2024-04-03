@@ -13,6 +13,7 @@
     "@astrojs/check": "^0.5.10",
     "@types/marked": "^6.0.0",
     "astro": "^4.5.9",
+    "hotkeypad": "^0.1.1",
     "typescript": "^5.4.3"
   },
   "devDependencies": {
