@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Diego Mejías",
-    "label": "Full Stack Developer formado para trabajar en las mejores empresas & Licenciado en Imagen y Sonido",
+    "label": "Full Stack Developer & Licenciado en Imagen y Sonido",
     "image": "/yo.webp",
     "email": "mejias.diego19@gmail.com",
     "phone": "+34 644481792",
     "url": "https://www.linkedin.com/in/diegomejiaspeña/",
-    "summary": "Experiencia trabajando en equipos competitivos como Desarrollador Web. Recibo formaciones de las últimas tecnologias para formar parte de la vanguardia del sector. He ganado experiencia en diferentes entornos: desde acelarar el desarrollo de proyectos hasta formar parte de Full Stack hackathons.",
+    "summary": "He trabajado en equipos usando la metodologia agile como Desarrollador Web. Recibo formaciones de las últimas tecnologias para formar parte de la vanguardia del sector. He ganado experiencia en diferentes entornos: desde acelarar el desarrollo de proyectos hasta formar parte de Full Stack hackathons.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -61,6 +61,11 @@
       "date": "August 2018",
       "issuer": "Cambridge University",
       "url": "ID B2752553 09/08/2001"
+    },
+     {
+      "name": "Forklift Certified",
+      "date": "June 2024",
+      "issuer": "Trekform",
     }
   ],
   "skills": [
@@ -152,11 +157,11 @@
       "url": ""
     },
     {
-      "name": "Java Purchase Management System",
+      "name": "Memory Game",
       "isActive": true,
-      "description": "Java-based Purchase Management System developed using HashMap to handle both the database and shopping cart.",
+      "description": "This Java program implements a memory game using Swing and MVC architecture, where players match pairs of cards from a randomized grid.",
       "highlights": ["Objects", "Eclipse", "HashMap", "Java"],
-      "url": "https://github.com/MejiasDiego/Java-Purchase-Management-System-"
+      "url": "https://github.com/MejiasDiego/memorySmash"
     },
     {
       "name": "L'Elecció Difícil",
